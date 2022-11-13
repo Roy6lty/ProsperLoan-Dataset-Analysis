@@ -2,7 +2,7 @@
 Data Analysis
 
 
- (Loan Prosper Dataset)
+# (Loan Prosper Dataset)
 ## by (Ayobami Olowoleru)
  
  
@@ -29,7 +29,7 @@ LP_GrossPricipalLoss variables leave out all the other variables. I start by Int
 followed by the pattern Distribution histogram.
 Next, I will introduce each of the Grading systems plotting them against the LenderYeild and LP_GrossPricipalLoss
 using a Boxplot, I am only looking for differences in quartile range between each Grading System.
- 
+
 Afterward, I would show the magnitude of the difference between each system using a clustered bar chart,
 where I will be highlighting the difference between the two systems.
  
